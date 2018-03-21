@@ -1,4 +1,6 @@
 {
+  "name": "Calendesk",
+  "displayName": "Calendesk",
   "expo": {
     "sdkVersion": "25.0.0"
   }

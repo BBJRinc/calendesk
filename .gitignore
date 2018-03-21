@@ -5,6 +5,7 @@
 
 # dependencies
 /node_modules
+/calencool/node_modules
 
 # misc
 .env.local
